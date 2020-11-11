@@ -22,8 +22,11 @@
   - REST API를 사용하여 좌석현황 API제작.
  
 ## 🚀 Projects
+
 [디스코드 팝콘봇](https://github.com/devstar1224/Popcon_discord)
+
 [졸업작품 SL:O WEB](https://github.com/comghana/Slobrary_WEB.git)
+
 [졸업작품 SL:O APP](https://github.com/comghana/Slobrary_APP.git)
 
 ## 📖 Studies
