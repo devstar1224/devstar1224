@@ -30,9 +30,9 @@ IDE와 프로그래밍언어를 매일보는게 삶의 전부인 개발자.
 
 [디스코드 팝콘봇](https://github.com/devstar1224/Popcon_discord) (Node.js, Mysql, AWS_EC2)
 
-[졸업작품 SL:O WEB](https://github.com/comghana/Slobrary_WEB.git) (JSP, Mysql, Ubuntu, Jenkins, Dovecot, Apache2, Tomcat, ajp, MinioBucket)
+[졸업작품 SL:O WEB](https://github.com/devstar1224/Slobrary_WEB) (JSP, Mysql, Ubuntu, Jenkins, Dovecot, Apache2, Tomcat, ajp, MinioBucket)
 
-[졸업작품 SL:O APP](https://github.com/comghana/Slobrary_APP.git) (Java, Ubuntu, Gradle)
+[졸업작품 SL:O APP](https://github.com/devstar1224/Slobrary_APP.git) (Java, Ubuntu, Gradle)
 
 ## 📖 Studies
 [Spring-Security](https://github.com/devstar1224/Spring-Security-Practice.git)
