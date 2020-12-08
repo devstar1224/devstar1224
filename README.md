@@ -15,7 +15,7 @@ IDE와 프로그래밍언어를 매일보는게 삶의 전부인 개발자.
 - 원격지침 계량기 (Spring-Boot, Angular, Oracle, Java, Ubuntu, JPA, Gradle)
   - 계량기와 DLMS프로토콜을 이용하여 씨리얼 통신을 함.
   - Spring Boot Command Line을 사용하여 계량기 DCU장비 서버 제작.
-  - Spring Boot를 사용하여 전국의 약 33개의 계량기 정보를 받는 API처리 및 JPA를 사용하여 REST API를 제작.
+  - Spring Boot를 사용하여 원격지에서 정보를 받는 API처리 및 JPA를 사용하여 REST API를 제작.
   - Sentry를 사용한 오류 수집 통합관제 플랫폼 사내 전파 및 첫 적용예시 소프트웨어.
   
 - 안드로이드 유지보수 (Java, Android, Gradle)
