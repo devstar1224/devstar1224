@@ -42,7 +42,7 @@
 
 [Spring-Boot](https://github.com/devstar1224/anonymous_board.git)
 
-[Swift-IOS)(https://github.com/devstar1224/ios_study.git)
+[Swift-IOS](https://github.com/devstar1224/ios_study.git)
 
 ## 🔗 Links
 
