@@ -28,7 +28,13 @@
  
 - 도서관 좌석관리 프로그램 유지보수 (Spring-Boot, Spring-Security, Angular, Oracle, Java, Ubuntu, JPA, Gradle)
   - REST API를 사용하여 좌석현황 API제작.
- 
+  
+### [(주)셀메이트](https://www.sellmate.co.kr) (2021.01 ~ )
+
+**소프트웨어 엔지니어**
+- 입사예정
+
+
 ## 🚀 Projects
 
 [디스코드 팝콘봇](https://github.com/devstar1224/Popcon_discord) (Node.js, Mysql, AWS_EC2)
@@ -42,7 +48,7 @@
 
 [Spring-Boot](https://github.com/devstar1224/anonymous_board.git)
 
-[Swift-IOS](https://github.com/devstar1224/ios_study.git) <- 📖 공부중...
+[Swift-IOS](https://github.com/devstar1224/ios_study.git)
 
 ## 🔗 Links
 
