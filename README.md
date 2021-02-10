@@ -32,7 +32,7 @@
 ### [(주)셀메이트](https://www.sellmate.co.kr) (2021.01 ~ )
 
 **소프트웨어 엔지니어**
-- 자사 솔루션 셀메이트 유지보수 및 개선 (Classic ASP, MS-SQL)
+- 자사 솔루션 셀메이트 유지보수 및 개선 (HTML, CSS, Javascript, JQuery, Bootstrap, Classic ASP, MS-SQL, IIS)
 
 
 ## 🚀 Projects
