@@ -15,9 +15,9 @@
 **소프트웨어 엔지니어**
 
 - 원격지침 계량기 (Spring-Boot, Angular, Oracle, Java, Ubuntu, JPA, Gradle)
-  - 계량기와 DLMS프로토콜을 이용하여 씨리얼 통신을 함.
+  - 계량기와 DLMS프로토콜을 이용하여 씨리얼 통신경험.
   - Spring Boot Command Line을 사용하여 계량기 DCU장비 서버 제작.
-  - Spring Boot를 사용하여 원격지에서 정보를 받는 API처리 및 JPA를 사용하여 REST API를 제작.
+  - Spring Boot를 사용하여 원격지에서 정보를 받는 API처리 및 JPA를 사용하여 REST API 제작.
   - Sentry를 사용한 오류 수집 통합관제 플랫폼 사내 전파 및 첫 적용예시 소프트웨어.
   - 신규로 이용될 데이터베이스 ERD제작.
   
@@ -29,7 +29,7 @@
 - 도서관 좌석관리 프로그램 유지보수 (Spring-Boot, Spring-Security, Angular, Oracle, Java, Ubuntu, JPA, Gradle)
   - REST API를 사용하여 좌석현황 API제작.
   
-### [(주)셀메이트](https://www.sellmate.co.kr) (2021.01 ~ )
+### [(주)셀메이트](https://www.sellmate.co.kr) (2021.01 ~ 재직중)
 
 **소프트웨어 엔지니어**
 - 자사 솔루션 셀메이트 유지보수 및 개선 (HTML, CSS, Javascript, JQuery, Bootstrap, Classic ASP, MS-SQL, IIS)
