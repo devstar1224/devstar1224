@@ -37,7 +37,7 @@
 
 - 셀메이트 모바일 어플리케이션 개발 (Dagger2, Rxkotlin, Kotlin, Retrofit, Android, Gradle) - MVP, Observer, Singleton
   - 모바일 어플리케이션 V2 신규 개발.
-
+  - 구글 플레이스토어 출시경험 및 구글 GA 적용
 ## 🚀 Projects
 
 [디스코드 팝콘봇](https://github.com/devstar1224/Popcon_discord) (Node.js, Mysql, AWS_EC2)
