@@ -46,8 +46,6 @@
 
 [졸업작품 SL:O APP](https://github.com/devstar1224/Slobrary_APP.git) (Java, Ubuntu, Gradle)
 
-[모모찌 Mozzi](https://github.com/devstar1224/mozzi) (Java, Ubuntu, Gradle, Spring-Boot, Spring-Security, Mysql, Docker, thymeleaf) 2021.03 ~
-
 ## 📖 Studies
 [Spring-Security](https://github.com/devstar1224/Spring-Security-Practice.git)
 
