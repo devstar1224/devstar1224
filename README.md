@@ -32,7 +32,7 @@
 ### [(주)셀메이트](https://www.sellmate.co.kr) (2021.01 ~ 재직중)
 
 **소프트웨어 엔지니어**
-- 자사 솔루션 셀메이트 유지보수 및 개선 (HTML, CSS, Javascript, JQuery, Bootstrap, Classic ASP, MS-SQL, IIS) - MVC
+- 자사 솔루션 셀메이트 유지보수 및 개선 (HTML, CSS, Javascript, JQuery, Bootstrap, Classic ASP, MS-SQL, IIS, PHP, Laravel, Docker) - MVC
   - 웹 백엔드, 프론트엔드 개선업무
 
 - 셀메이트 모바일 어플리케이션 개발 (Dagger2, Rxkotlin, Kotlin, Retrofit, Android, Gradle) - MVP, Observer, Singleton
