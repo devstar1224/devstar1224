@@ -41,6 +41,10 @@
   - 블루투스 스캐너 및 RFID로 대용량 재고관리 시스템 연동.
   - 플레이스토어 배포 자동화 CICD 적용
   
+- 기술블로그
+  - [셀메이트 안드로이드 RFID 설계](http://dev.blog.sellmate.co.kr/post/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-rfid-%EC%A0%81%EC%9A%A9%EA%B8%B0/)
+  - [바코드 인쇄설정 개선](http://dev.blog.sellmate.co.kr/post/%EB%B0%94%EC%BD%94%EB%93%9C-%EC%84%A4%EC%A0%95-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EB%B7%B0/)
+  - [PHP의 마침표 전쟁](http://dev.blog.sellmate.co.kr/post/%EC%A3%BC%EB%AC%B8%EC%84%9C%EC%97%B4%EC%84%A4%EC%A0%95-3%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EB%B7%B0/)
 ## 🚀 Projects
 
 [디스코드 팝콘봇](https://github.com/devstar1224/Popcon_discord) (Node.js, Mysql, AWS_EC2)
