@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/> 
 <img src="https://img.shields.io/badge/VisualBasic-0175C2?style=flat-square&logo=VisualBasic&logoColor=white"/> 
 
-### ETC.. Maybe Devops
+### ETC..
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white"/> 
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/> 
