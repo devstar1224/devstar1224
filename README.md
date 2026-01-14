@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sangik LEE</h1>
-<h3 align="center">Mobile & Backend Developer from South Korea 🇰🇷</h3>
+<h3 align="center">Mobile & Backend Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Mobile+Developer+%F0%9F%93%B1;Backend+Developer+%E2%9A%99%EF%B8%8F;Open+Source+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
