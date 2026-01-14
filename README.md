@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/devstar1224"><img src="https://img.shields.io/github/followers/devstar1224?label=Followers&style=social" alt="GitHub Badge"></a>
-  <a href="mailto:dev_sang@naver.com"><img src="https://img.shields.io/badge/Email-dev_sang%40naver.com-red?style=flat-square&logo=gmail"></a>
+  <a href="mailto:dev_sang@naver.com"><img src="https://img.shields.io/badge/Email-dev%5fsang%40naver.com-red?style=flat-square&logo=gmail"></a>
 </p>
 
 ---
