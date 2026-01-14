@@ -1,63 +1,77 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Sangik LEE</h1>
+<h3 align="center">Mobile & Backend Developer from South Korea 🇰🇷</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Sangik%20LEE&fontSize=90&animation=fadeIn&fontAlignY=38" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Mobile+Developer+%F0%9F%93%B1;Backend+Developer+%E2%9A%99%EF%B8%8F;Open+Source+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Mobile+Developer;Backend+Developer;Always+Learning)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://github.com/devstar1224"><img src="https://img.shields.io/github/followers/devstar1224?label=Followers&style=social" alt="GitHub Badge"></a>
+  <a href="mailto:devstar1224@gmail.com"><img src="https://img.shields.io/badge/Email-devstar1224%40gmail.com-red?style=flat-square&logo=gmail"></a>
+</p>
 
-<br/>
+---
 
-## 🚀 About Me
+### 👨‍💻 About Me
 
-```typescript
-const developer = {
-    name: "Sangik LEE",
-    code: ["Kotlin", "Java", "JavaScript", "Dart", "Python"],
-    focus: ["Android", "Spring Boot", "Flutter"]
-};
-```
+- 🔭 Currently working on **Android & Spring Boot** projects
+- 🌱 Learning **Flutter** and **Cloud Technologies**
+- 💡 Passionate about **clean code** and **scalable architecture**
+- 📫 Reach me: **devstar1224@gmail.com**
 
-<br/>
+---
 
-## 📊 GitHub Stats
+### 🛠️ Tech Stack
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devstar1224&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devstar1224&layout=compact&langs_count=8&theme=tokyonight" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,dart,js,python,spring,flutter,android,react,angular,nodejs,mysql,git,firebase,jenkins&perline=8" />
+</p>
 
-<br/>
+---
 
-## 🛠️ Tech Stack
+### 📊 GitHub Stats
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devstar1224&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devstar1224&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devstar1224&theme=tokyonight&hide_border=true" alt="devstar1224" />
+</p>
 
-## 🏆 GitHub Trophies
+---
 
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=devstar1224&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+### 🏆 GitHub Trophies
 
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devstar1224&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
+</p>
 
-<br/>
+---
 
-## 🌐 Connect with Me
+### 📈 Activity Graph
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/devstar1224)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:devstar1224@gmail.com)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devstar1224&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
-<br/><br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer" />
+### 💼 Featured Projects
 
-</div>
+<p align="center">
+  <a href="https://github.com/devstar1224?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devstar1224&label=Profile%20views&color=0e75b6&style=flat" alt="devstar1224" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
