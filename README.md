@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sangik LEE</h1>
-<h3 align="center">Mobile & Backend Developer</h3>
+<h3 align="center">Mobile & Backend Developer from South Korea 🇰🇷</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Mobile+Developer+%F0%9F%93%B1;Backend+Developer+%E2%9A%99%EF%B8%8F;Open+Source+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/devstar1224"><img src="https://img.shields.io/github/followers/devstar1224?label=Followers&style=social" alt="GitHub Badge"></a>
-  <a href="mailto:dev_sang@naver.com"><img src="https://img.shields.io/badge/Email-dev%5fsang%40naver.com-red?style=flat-square&logo=gmail"></a>
+  <a href="mailto:dev_sang@naver.com"><img src="https://img.shields.io/badge/Email-dev__sang%40naver.com-03C75A?style=flat-square&logo=naver"></a>
 </p>
 
 ---
@@ -32,12 +32,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devstar1224&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devstar1224&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devstar1224&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devstar1224&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devstar1224&theme=tokyonight&hide_border=true" alt="devstar1224" />
+  <img src="https://streak-stats.demolab.com/?user=devstar1224&theme=tokyonight&hide_border=true&background=0d1117" alt="devstar1224" />
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devstar1224&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=devstar1224&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 ---
