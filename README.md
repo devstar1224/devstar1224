@@ -17,7 +17,7 @@
 - 🔭 Currently working on **Android & Spring Boot** projects
 - 🌱 Learning **Flutter** and **Cloud Technologies**
 - 💡 Passionate about **clean code** and **scalable architecture**
-- 📫 Reach me: **devstar1224@gmail.com**
+- 📫 Reach me: **dev_sang@naver.com**
 
 ---
 
